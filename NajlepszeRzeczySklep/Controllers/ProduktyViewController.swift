@@ -2,7 +2,6 @@ import UIKit
 
 class ProduktyViewController: UIViewController {
     
-    
     @IBOutlet weak var collectionView: UICollectionView!
     var kontekst: String?
     let defaults = UserDefaults.standard

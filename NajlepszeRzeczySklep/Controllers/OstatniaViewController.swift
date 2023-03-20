@@ -8,7 +8,6 @@
 import UIKit
 
 class OstatniaViewController: UIViewController {
-    
     override func viewDidLoad() {
         self.navigationController?.isNavigationBarHidden = true
         self.navigationItem.setHidesBackButton(true, animated: true)

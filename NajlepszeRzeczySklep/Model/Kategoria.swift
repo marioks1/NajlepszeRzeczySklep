@@ -9,7 +9,6 @@ import Foundation
 
 class Kategoria {
     
-    
     @objc dynamic var nazwaGrafiki: String = ""
     @objc dynamic var nazwa: String = ""
     

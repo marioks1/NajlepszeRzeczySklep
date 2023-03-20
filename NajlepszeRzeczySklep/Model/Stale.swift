@@ -256,7 +256,6 @@ class Stale{
         "PilaLancuchowa",
         "KwiatekDoniczka",
     ]
-    
     public var cenaOgrod = [
         20.00,
         1000.50,

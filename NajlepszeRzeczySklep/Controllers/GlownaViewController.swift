@@ -22,8 +22,7 @@ class GlownaViewController: UIViewController {
         @IBAction func unwindDoGlownej(_ sender:UIStoryboardSegue) {
             
         }
-    
-    
+
     var s = Stale()
     
     public var wybranaKategoria: String?

@@ -13,7 +13,6 @@ class CollectionViewCell_001: UICollectionViewCell {
     @IBOutlet var textField: UITextField!
     
     
-    
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code

@@ -52,7 +52,6 @@ class KoszykViewController: UIViewController, UITableViewDataSource {
     var tablicaNazwGrafiki: [String] = []
     var tablicaCen: [Double] = []
     
-    
     override func viewDidLoad() {
         
         defaults.set(wyczyszczonoKoszyk, forKey: "WyczKosz")

@@ -1,9 +1,4 @@
-//
-//  AppDelegate.swift
-//  NajlepszeRzeczySklep
-//
-//  Created by Mariusz Dziuba on 02/01/2023.
-//
+
 
 import UIKit
 

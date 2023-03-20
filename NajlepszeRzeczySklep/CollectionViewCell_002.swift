@@ -23,8 +23,6 @@ class CollectionViewCell_002: UICollectionViewCell {
         let sformatowanaCena = String(format: "%.2f", cenaProduktu)
         textField_02.text = String("\(sformatowanaCena) zł.")
         
-    
-        
     }
     
     static func nib() -> UINib {

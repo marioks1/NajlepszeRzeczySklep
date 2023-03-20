@@ -15,7 +15,6 @@ class ZamowienieViewController: UIViewController {
     var emailWprowadzone: String?
     var telefonWprowadzone: String?
     
-    
     @IBOutlet weak var imieOdbiorcyTF: UITextField!
     @IBOutlet weak var nazwiskoOdbiorcyTF: UITextField!
     

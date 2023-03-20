@@ -33,7 +33,6 @@ class TableViewCell: UITableViewCell {
         textField_002.text = String("\(sformatowanaCena) zł.")
         
     }
-    
     static func nib() -> UINib {
         return UINib(nibName: "TableViewCell", bundle: nil)
     }

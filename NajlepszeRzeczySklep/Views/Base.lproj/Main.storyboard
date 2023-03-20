@@ -154,7 +154,7 @@
                                 <cells/>
                             </collectionView>
                             <searchBar contentMode="redraw" fixedFrame="YES" searchBarStyle="minimal" translucent="NO" translatesAutoresizingMaskIntoConstraints="NO" id="n5k-PN-RzJ">
-                                <rect key="frame" x="-5" y="113" width="395" height="44"/>
+                                <rect key="frame" x="-5" y="113" width="394" height="44"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
                                 <textInputTraits key="textInputTraits"/>
                                 <connections>
@@ -552,7 +552,7 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="3yq-pZ-RcE" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
                 <exit id="yWv-XQ-AQf" userLabel="Exit" sceneMemberID="exit"/>
             </objects>
-            <point key="canvasLocation" x="3091" y="-437"/>
+            <point key="canvasLocation" x="3091" y="-422"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="yvT-Mt-jv0">
